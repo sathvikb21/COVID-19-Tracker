@@ -1,3 +1,8 @@
 # COVID-19-Tracker
 
-* [ ] Complete the XD File
+* [x] Complete the XD File
+* [ ] Create the django project
+* [ ] 
+* [ ] 
+
+
